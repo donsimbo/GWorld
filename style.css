@@ -313,16 +313,17 @@
     }
 
     .mg{
-        height: 150px;
-        width: 240px;
+        height: 280px;
+        width: 220px;
         border-radius: 10px;
     }
 
     #maincard{
-        height: 290px ;
-        width: 240px; ;
-        background-color: blue;
+        height: 280px ;
+        width: 19%;
+        background-color: transparent;
         text-align: center;
+
 
     }
 
